@@ -65,7 +65,7 @@ export default function BookCreatePage() {
   return (
     <Container className="my-5">
       <Stack direction="horizontal">
-        <h3 className="me-auto">Book List</h3>
+        <h3 className="me-auto">Create Book</h3>
 
         <Breadcrumb className="mt-2">
           <Breadcrumb.Item>Home</Breadcrumb.Item>
