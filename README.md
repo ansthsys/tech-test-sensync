@@ -52,3 +52,32 @@ Directory: `./server`
   ```
   php artisan serve
   ```
+
+## Client
+
+### - System Requirement
+
+- Node >= 20
+- NPM >= 10
+
+### - Running Client
+
+- change directory to root
+  ```
+  cd tech-test-sensync
+  ```
+- setup client
+
+  ```
+  cd ./client
+  ```
+  
+  ```
+  npm install
+  ```
+
+- run client
+
+  ```
+  npm run dev
+  ```
